@@ -73,9 +73,7 @@ Os usuários desse sistema podem ser classificados em:
 
 ### 3.1. Diagramas de Casos de Uso
 
-<p align="center">
-  <img src="docs/figura-2-caso-de-uso.svg" alt="Diagrama de Caso de Uso do sistema ArenaSports" width="720">
-</p>
+<img width="1745" height="1543" alt="image" src="https://github.com/user-attachments/assets/454b2f2c-15da-45ef-bc88-daecc7d3f038" />
 
 <p align="center"><i>Figura 1 – Diagrama de Caso de Uso</i></p>
 
