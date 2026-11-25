@@ -2,6 +2,11 @@
 
 Plataforma de automação e gestão de agendamentos de quadras esportivas (society, areia e poliesportivas).
 
+Equipe responsável pela elaboração:
+
+- Paulo Davi de Sousa Domingues
+- Ryan Salvador Corrêa
+
 ## Sumário
 
 1. [Introdução](#1-introdução)
